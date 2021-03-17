@@ -12,8 +12,7 @@ A **filesystem** organizes a computer's files and directories into a tree st
 - `cd ..` move up one folder.
 - `mkdir` creates a new directory in the working directory.
 - `touch` creates a new file inside the working directory.
-- `rm –r` removes directories and their contents recursively.
-- `rm` removes files.
+- [`rm`](rm.md) removes files.
 - `cp` copies files.
 - `mv` moves and renames files.
 - `ls -a` lists all contents of a directory, including hidden files and directories.
